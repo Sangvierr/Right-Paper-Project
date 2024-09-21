@@ -31,7 +31,7 @@ class YouTubeCaptionCrawler:
                                '였어요', '였네요', '시다', '이다', '이야',
                                '이죠', '겠죠', '나요', '려나', '려고',
                                '가죠', '나다', '라고', '라니', '라네']
-        self.api_key = 'AIzaSyBrW0lT67S0_Nk-9DAmv5DUElGvQRNleNw'
+        self.api_key = '--YOUR_API_KEY--'
         self.text = ""
         
         # 시간 지정이 있을 경우
